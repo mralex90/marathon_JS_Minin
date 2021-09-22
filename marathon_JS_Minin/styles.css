@@ -8,7 +8,7 @@ body {
   font-family: 'Muli', sans-serif;
   overflow: hidden;
   margin: 0;
-  background: #111;
+  background: linear-gradient(rgba(245, 237, 237, 0.678), rgba(243, 8, 8, 0.849));
   height: 100vh;
   display: flex;
   justify-content: center;
